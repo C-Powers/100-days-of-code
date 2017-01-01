@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 0: December 31, 2016
+
+**Today's Progress:** Decided to work on a project I've wanted to make, decided to develop in React-Native. Created the repo, and started working on some basic routing.
+
+**Thoughts:** I need to figure out routing in r-n.
+
+**Link to Work:** [Knoww](https://github.com/C-Powers/Knoww)
+
+<!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -28,3 +37,4 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+-->
