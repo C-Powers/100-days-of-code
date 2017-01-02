@@ -8,6 +8,14 @@
 
 **Link to Work:** [Knoww](https://github.com/C-Powers/Knoww)
 
+###Day 1: January 1, 2017
+
+**Today's Progress:** My step dad mentioned his difficulties for analyzing stock data, and I thought that it'd be a pretty easily thing to automate. Unfortunately, some of the sites that he used did not have any apis, so I learned how to utilize selenium, and wrote a python script to do it for him. He wanted it output into an excel file, so I just output it into a .csv file that he can open in excel.
+
+**Thoughts:** Wasn't too hard. I ran into some road blocks, mostly with remembering how to do large array manipulations. I looked back onto some of the code I wrote in undergrad to analyze astronomical data. Was fun!
+
+**Link to Work:** [Roi](https://github.com/C-Powers/a-rating-roi)
+
 <!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
