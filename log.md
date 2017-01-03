@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: December 31, 2016
+### Day 1: December 31, 2016
 
 **Today's Progress:** Decided to work on a project I've wanted to make, decided to develop in React-Native. Created the repo, and started working on some basic routing.
 
@@ -8,13 +8,20 @@
 
 **Link to Work:** [Knoww](https://github.com/C-Powers/Knoww)
 
-###Day 1: January 1, 2017
+###Day 2: January 1, 2017
 
 **Today's Progress:** My step dad mentioned his difficulties for analyzing stock data, and I thought that it'd be a pretty easily thing to automate. Unfortunately, some of the sites that he used did not have any apis, so I learned how to utilize selenium, and wrote a python script to do it for him. He wanted it output into an excel file, so I just output it into a .csv file that he can open in excel.
 
 **Thoughts:** Wasn't too hard. I ran into some road blocks, mostly with remembering how to do large array manipulations. I looked back onto some of the code I wrote in undergrad to analyze astronomical data. Was fun!
 
 **Link to Work:** [Roi](https://github.com/C-Powers/a-rating-roi)
+
+### Day 3: January 2, 2017
+**Today's Progress:** Back to some work with react-native and navigating. I got multiple components to interact and nav to each other, rather than just one component loading different props.
+
+**Thoughts:** I'm still not conceptually sound on the inner workings of nav. Need to really figure that out.
+
+**Link to Work:** [Knoww](https://github.com/C-Powers/Knoww)
 
 <!--
 ### Day 0: February 30, 2016 (Example 1)
