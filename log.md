@@ -23,6 +23,13 @@
 
 **Link to Work:** [Knoww](https://github.com/C-Powers/Knoww)
 
+### Day 4: January 3, 2017
+**Today's Progress:** Met with new colleagues/work members on a side project I'm now a part of. Just getting up to speed/understanding the codebase. Not too much done in terms of pure coding.
+
+**Thoughts:** Would have liked to get more done, but I'm just glad I didn't go right to bed/watch netflix after a long day.
+
+**Link to Work:** 
+
 <!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
